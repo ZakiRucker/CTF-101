@@ -12,7 +12,7 @@ There are various types of CTFs.
 * Attack & Defense CTFs are more hands on. Teams are given identical "cyber terrain", usually a virtual private server. They must then defend their own server and attack opposing teams servers.
 * Hybrid is... you know.
 
-## Where should someone who is brand new to this start?
+## Learning the ropes?
 In order to become more comfortable with the command line I recommend a couple of resources.
 * [Over The Wire: Bandit Wargame](https://overthewire.org/wargames/bandit/) - This website is a great tool to introduce you to the linux command line and many useful commands.
 * [Under The Wire: Century Wargame](https://underthewire.tech/century) - This will introduce you to the Windows command prompt.
@@ -28,7 +28,12 @@ You will want to build a virtual environment to practice in. Here are a couple o
 * [VirtualBox](https://www.virtualbox.org)
 * [VMware Fusion for Mac](https://www.vmware.com/products/fusion.html)
 * [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html)
-
+  
+## Practice anytime
+* [Pico CTF](https://picoctf.com)
+    - A CTF style learning environment run by Carnegie Mellon University.
+* [CTFlearn](https://ctflearn.com)
+    - A collection of challenges to help you learn and practice CTF skills.
 #### Operating Systems (OS)
 * [Ubuntu](https://ubuntu.com) - This is a ubiquitous OS and an easy learning curve for those whom never have used Linux.
 * [Kali Linux](https://www.kali.org) - This is a powerful OS favored by many who are experienced cybersecurity practitioners.
